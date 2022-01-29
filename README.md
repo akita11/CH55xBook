@@ -16,6 +16,10 @@
 - 内蔵レギュレータの3.3V出力の電流（100mA程度までは使えそう）
 - 4種類のボードの写真: [CH559Pico](https://github.com/akita11/CH559Pico) / [CH552Xiao](https://github.com/akita11/CH552Xiao)/ [CH552duino](https://github.com/akita11/CH552duino) / [ProMicroCH552](https://github.com/akita11/ProMicroCH552)
 
+## 次の更新版に追記する予定の情報
+
+- M1 MacでのArduinoIDEの書き込みで、書き込みツールの置き換えをしなくても動作OKの情報あり
+
 # Author
 
 Junichi Akita (@akit11, akita@ifdl.jp)
