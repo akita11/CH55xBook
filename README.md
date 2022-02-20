@@ -2,6 +2,10 @@
 
 書籍「PICやAVRの代わりにCH55xはどうでしょう」の更新履歴や追記情報、サポート情報などをまとめていきます。
 
+- 電子書籍版: [技術書典マーケット](
+https://techbookfest.org/product/5803512929714176?productVariantID=6092886267396096)
+- 冊子版: [スイッチサイエンスのマーケットプレイス](https://www.switch-science.com/catalog/7927/)
+
 ## ver1.0 (2022/1/22)
 
 - 初版
