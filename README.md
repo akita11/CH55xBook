@@ -24,6 +24,7 @@ https://techbookfest.org/product/5803512929714176?productVariantID=6092886267396
 
 - M1 MacでのArduinoIDEの書き込みで、書き込みツールの置き換えをしなくても動作OKの情報あり
 - IO電圧の範囲。CH551/2は基本5V、USB信号がつながるピン（P3.6/7）は3.3Vレベルのみ、ほかは5V。CH558/9は基本3.3V、P1.0-7とP4.6/7のみ5V入力OK
+- (p.5)NT鯖江の日付（2022年11月27日→2021年11月27日）
 
 # Author
 
